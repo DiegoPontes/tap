@@ -28,7 +28,7 @@ namespace _1222
 
                 string[] txt = Console.ReadLine().Split(' ');
 
-                for (int i = 0; i < txt.Length; i++)
+                for (int i = 0; i < n; i++)
                 {
                     caracteres += txt[i].Length;
 
